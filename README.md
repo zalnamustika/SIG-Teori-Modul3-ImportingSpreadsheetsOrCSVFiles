@@ -6,7 +6,7 @@ Pada kali ini Kita akan mengimpor file teks dengan lokasi gempa dalam format tab
 
 - Komputer / Laptop
 - APK QGIS3
-- Mengunduh salinan data [ne_10m_populated_places_simple.zip] (https://www.qgistutorials.com/downloads/earthquakes_2021_11_25_14_31_59_+0530.tsv)
+- Mengunduh salinan data [gempa bumi_2021_11_25_14_31_59_+0530.tsv](https://www.qgistutorials.com/downloads/earthquakes_2021_11_25_14_31_59_+0530.tsv)
 
 ## Pengambilan Data
 
